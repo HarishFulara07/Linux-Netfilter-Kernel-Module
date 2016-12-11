@@ -10,4 +10,4 @@ Simple linux netfilter module that logs 5 different types of TCP packets in kern
 1. Compile the module using makefile - **make all**
 2. Add the module to the kernel modules - **sudo isnmod Assignment1.ko**
 3. View logged packets - **sudo dmesg**
-4. To remove the kernel module - **sudo rmmod Assignment1**
+4. Remove the module from kernel modules - **sudo rmmod Assignment1**
