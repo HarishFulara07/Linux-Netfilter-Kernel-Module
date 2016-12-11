@@ -1,8 +1,8 @@
-# Linux-Netfilter-Kernel-Module
-Simple linux netfilter module that logs 5 different types of TCP packets in kernel logs - ACK, SYN, FIN, XMAS and NULL pcaket
+# Linux Netfilter Kernel Module
 
-# Note
-You can read more about the module in report.pdf
+Simple linux netfilter module that logs 5 different types of TCP packets in kernel logs - ACK, SYN, FIN, XMAS and NULL packet.
+
+**Note**: You can find detailed information about tthe module in [report.pdf] (https://github.com/HarishFulara07/NS-Linux-Netfilter-Kernel-Module/blob/master/report.pdf)
 
 # How to run
 1. Compile using makefile - 'make all'
